@@ -1,2 +1,10 @@
 # Web3Nepal
-Connections Web3 Resources in Nepal
+Collecting Web3 Resources in Nepal
+---
+## People
+
+## Communities
+
+## Companies
+
+## Fellowships
