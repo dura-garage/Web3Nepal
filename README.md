@@ -20,6 +20,13 @@ Collecting Web3 Resources in Nepal
    [Twitter](https://twitter.com/iamkrishnadahal?lang=en)  
    [LinkedIn](https://www.linkedin.com/in/krishnadahal/)
 
+3. Rahul Yadav  
+   [LinkedIn](https://www.linkedin.com/in/heyiamrky/)
+
+4. Saurab Sharma   
+   [Twitter](https://twitter.com/saurabsh96)  
+   [LinkedIn](https://www.linkedin.com/in/saurabsh96/)
+
 ### Communities
 
 1. Web3 Foundation Nepal    
@@ -27,6 +34,8 @@ Collecting Web3 Resources in Nepal
 [Twitter](https://twitter.com/Web3Nepal)   
 [Facebook](https://www.facebook.com/groups/web3nepal)
 
+
 ### Companies
 
 1. [eSatya](https://esatya.io)
+2. [Merkle Labs LLC](https://merklelabs.net/)
